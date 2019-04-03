@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "write_pr_file.c"
-#include <newt.h>
+#include "newt.h"
+#include "search.c"
 
 #define NAME 0
 #define DAY 1
@@ -12,9 +13,9 @@
 
 void recp_loop(unsigned int rows, unsigned int cols)
 {   
-    unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2;
+    unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2, uint_search_id;
     char *record[7][100], add1[100], add2[100], add3[100];
-    char *search_id, *search_name;
+    char *search_id, *search_name, *ptr, *res_search;
     int gender = -1;    
 
     newtComponent main_form, b_new_rec, b_settings, b_search, 
@@ -26,7 +27,7 @@ void recp_loop(unsigned int rows, unsigned int cols)
                   r_male, r_female, ent_address3, ent_age, 
                   ent_no, ent_date, ent_month, ent_year;
 
-    newtComponent search_form, b_search_search, b_search_cancel, 
+    newtComponent search_form, b_search_search, b_search_cancel,tb_res_search,
                   l_search_bi, l_search_bn, ent_bid, ent_bname;
 
     newtComponent settings_form;
@@ -69,6 +70,7 @@ void recp_loop(unsigned int rows, unsigned int cols)
     ent_bname = newtEntry(20,2,NULL,28,(const char**) &search_name,0);
     b_search_search = newtButton(4, rows-9, "Search");
     b_search_cancel = newtButton(19, rows-9, "Cancel");
+	tb_res_search = newtTextbox(5, 4, 40,5,0);
     
     //settings form components
     //NULL
@@ -119,7 +121,22 @@ void recp_loop(unsigned int rows, unsigned int cols)
         {
            newtPopWindow();
            newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
-           newtRunForm(search_form);            
+           ch_form = newtRunForm(search_form);            
+	   
+	       if( ch_form == b_search_search )
+           {	
+				uint_search_id = str_to_uint(search_id);
+	        	res_search = search_by_id(uint_search_id);
+				newtTextboxSetText( tb_res_search,res_search );
+				
+				
+				newtFormAddComponents(search_form, l_queue, l_line, tbox, l_search_bi, 
+                          l_search_bn, ent_bid, ent_bname, b_search_search, 
+                          b_search_cancel,tb_res_search, NULL);
+
+				newtRunForm(search_form);
+				
+           }
 
         }else if( ch_form == b_settings )
         {
