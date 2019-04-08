@@ -69,7 +69,7 @@ int main()
     switch(role)
     {
         case 1:
-            doc_loop();
+            doc_loop(rows,cols);
             break;
         case 2:
             recp_loop(rows,cols);
