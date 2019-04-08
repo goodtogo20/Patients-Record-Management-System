@@ -2,6 +2,7 @@
 #include "write_pr_file.c"
 #include "newt.h"
 #include "search.c"
+#include "validate.c"
 
 #define NAME 0
 #define DAY 1
@@ -13,7 +14,7 @@
 
 void recp_loop(unsigned int rows, unsigned int cols)
 {   
-    unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2, uint_search_id;
+    unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2 ;
     char *record[7][100], add1[100], add2[100], add3[100];
     char *search_id, *search_name, *ptr, *res_search;
     int gender = -1;    
@@ -112,7 +113,7 @@ void recp_loop(unsigned int rows, unsigned int cols)
            newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
            ch_form = newtRunForm(new_rec_form);
 
-           if( ch_form == b_add_rec /*&& validate(record,gender)*/ )
+           if( ch_form == b_add_rec && validate(record,gender) )
            {
                 wr_file(record,gender);
            }
@@ -124,18 +125,15 @@ void recp_loop(unsigned int rows, unsigned int cols)
            ch_form = newtRunForm(search_form);            
 	   
 	       if( ch_form == b_search_search )
-           {	
-				uint_search_id = str_to_uint(search_id);
-	        	res_search = search_by_id(uint_search_id);
+           {					
+	        	res_search = search_by_id(search_id);
 				newtTextboxSetText( tb_res_search,res_search );
 				
-				
 				newtFormAddComponents(search_form, l_queue, l_line, tbox, l_search_bi, 
-                          l_search_bn, ent_bid, ent_bname, b_search_search, 
-                          b_search_cancel,tb_res_search, NULL);
+                                      l_search_bn, ent_bid, ent_bname, b_search_search, 
+                                      b_search_cancel,tb_res_search, NULL);
 
-				newtRunForm(search_form);
-				
+				newtRunForm( search_form );	
            }
 
         }else if( ch_form == b_settings )
