@@ -1,5 +1,6 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
 
 unsigned int str_to_uint(char *st) {
   char *x;
