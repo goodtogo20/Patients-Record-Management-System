@@ -1,0 +1,6849 @@
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 

@@ -4,6 +4,5 @@
 int validate()
 {
 	
-
 	return 1;
 }

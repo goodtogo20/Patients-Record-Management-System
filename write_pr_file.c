@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "gen_id.c"
+#include "gen_id.h"
 
 #define MALE 1
 #define FEMALE 2
@@ -13,7 +13,7 @@
 #define ADDRESS 5
 #define NO 6
 
-int wr_file(char *record[][100], int gender)
+int wr_pinfo_file(char *record[][100], int gender)
 {
     FILE *fp = fopen("pat_data.txt","a");
     

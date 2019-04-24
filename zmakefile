@@ -1,0 +1,19 @@
+all: a.out
+
+a.out: main.c librside.a libdside.a libgen.a
+	gcc main.c -lpthread -lnewt -L. -lrside -lrdside -lgen -o a.out
+
+librside.a: recp_loop.c recp_client_listen.c recp_client_send.c write_pr_file.c
+	gcc -c recp_loop.c recp_client_listen.c recp_client_send.c write_pr_file.c
+	ar rcs librside.a buffer.o validate.o gen_id.o search.o login.o pqueue.o
+
+libdside.a: doc_loop.c doc_server_listen.c doc_server_send.c wr_report_file.c
+	gcc -c doc_loop.c doc_server_listen.c doc_server_send.c wr_report_file.c
+	ar rcs libdside.a doc_loop.o doc_server_listen.o doc_server_send.o wr_report_file.o
+
+libgen.a: buffer.c validate.c gen_id.c search.c login.c pqueue.c
+	gcc -c buffer.c validate.c gen_id.c search.c login.c pqueue.c
+	ar rcs libgen.a buffer.o validate.o gen_id.o search.o login.o pqueue.o
+
+
+

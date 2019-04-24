@@ -1,8 +1,10 @@
 #include <stdio.h>
-#include "write_pr_file.c"
-#include "newt.h"
-#include "search.c"
-#include "validate.c"
+#include <newt.h>
+
+#include "write_pr_file.h"
+#include "search.h"
+#include "validate.h"
+#include "send_sig_to_doc.h"
 
 #define NAME 0
 #define DAY 1
@@ -12,33 +14,40 @@
 #define ADDRESS 5
 #define NO 6
 
-void recp_loop(unsigned int rows, unsigned int cols)
-{   
+extern newtComponent tbox;
+
+void *recp_loop()
+{ 
+    unsigned int rows, cols; FILE *fp = fopen("recptest.txt","w");
+    newtGetScreenSize(&cols, &rows);
+  
     unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2 ;
-    char *record[7][100], add1[100], add2[100], add3[100];
-    char *search_id, *search_name, *ptr, *res_search;
-    int gender = -1;    
+    char *record[7][100], add1[100], add2[100], add3[100], *old_p, *new_p, *new_pa;
+    char *search_id, *search_name, *ptr, *res_search, name_data[20][200];
+    int gender = -1, iid; 
 
     newtComponent main_form, b_new_rec, b_settings, b_search, 
-                  b_logout, tbox, l_queue, l_line;
+                  b_logout, l_queue, l_line, l_op, l_np, l_npa, ent_op, 
+                            ent_np, ent_npa, cpword_form;
 
     newtComponent new_rec_form, b_add_rec, l_name, l_dob, 
                   l_gender, l_address, l_age, l_no, ent_name,
                   ent_gender, ent_address1, ent_address2, 
                   r_male, r_female, ent_address3, ent_age, 
-                  ent_no, ent_date, ent_month, ent_year;
+                  ent_no, ent_date, ent_month, ent_year, b_wf_cancel, b_change;
 
-    newtComponent search_form, b_search_search, b_search_cancel,tb_res_search,
-                  l_search_bi, l_search_bn, ent_bid, ent_bname;
+    newtComponent search_form, b_search_cancel, tb_res_search,
+                  l_value ,b_search_bi, b_search_bn,  ent_value,b_change_pword, lbox, b_enq, b_detail;
 
     newtComponent settings_form;
-    newtComponent b_cancel, ch_form;
+	newtComponent detail_form;
+    newtComponent b_cancel, ch_form, b_set_cancel;
 
     //main form components
-    b_new_rec = newtButton(4, rows-9, "New Record");
-    b_search = newtButton(23, rows-9, "Search");
-    b_settings = newtButton(38, rows-9, "Settings");
-    b_logout = newtButton(55, rows-9, "Logout & Exit");
+    b_new_rec = newtButton(5, 1, "New Record");
+    b_search = newtButton(5, 6, "Search");
+    b_settings = newtButton(5, 11, "Settings");
+    b_logout = newtButton(5, 16, "Logout & Exit");
     l_queue = newtLabel(cols-26, 0, "Queue");         
     l_line = newtLabel(cols-31, 1, "-------------------");
     
@@ -65,26 +74,43 @@ void recp_loop(unsigned int rows, unsigned int cols)
     ent_no =  newtEntry(17,14,NULL,10,(const char**) record[NO],0);
     
     //search form components
-    l_search_bi = newtLabel(5,0,"Enter ID:");
-    l_search_bn = newtLabel(5,2,"Enter Name:");
-    ent_bid = newtEntry(20,0,NULL,28,(const char**) &search_id,0);
-    ent_bname = newtEntry(20,2,NULL,28,(const char**) &search_name,0);
-    b_search_search = newtButton(4, rows-9, "Search");
-    b_search_cancel = newtButton(19, rows-9, "Cancel");
-	tb_res_search = newtTextbox(5, 4, 40,5,0);
-    
+    l_value = newtLabel(5,0,"Enter Value:");
+    ent_value = newtEntry(20,0,NULL,28,(const char**) &search_id,0);
+
+    b_search_bi = newtButton(4, 2, "Search by ID");
+	b_search_bn = newtButton(22, 2, "Search by name");
+    b_search_cancel = newtButton(42, 2, "Cancel");
+    b_enq = newtCompactButton(5, 21, "Add to queue");
+    b_detail = newtCompactButton(22, 21, "See Details");
+    lbox = newtListbox(5, 9, 12, NEWT_FLAG_SCROLL | NEWT_FLAG_BORDER);
+    newtListboxSetWidth(lbox,60);
     //settings form components
-    //NULL
 
     //texbox system for queue
-    tbox = newtTextbox( cols-30, 2, 15, 10, NEWT_FLAG_BORDER );
-    newtTextboxSetText( tbox,"1) there ya go\n2) Nice\n3) Pink FLOYD\n4) ThunderClouds\n5) BIG BUCKS" );
+    newtTextboxSetText( tbox,"Queue is Empty!" );
     
+    //settings forms    
+    b_change_pword = newtButton(5,1,"Change Password");
+    b_set_cancel = newtButton(5,7,"Cancel");
+
+    //    cpword_form
+    l_op = newtLabel(5, 2, "Old Password: ");
+    l_np = newtLabel(5, 5, "New Password: ");
+    l_npa = newtLabel(5, 7, "Enter Again: "); 
+    ent_op = newtEntry(20,2,0,30,(const char**) &old_p,0);
+    ent_np = newtEntry(20,5,0,30,(const char**) &new_p,0);
+    ent_npa = newtEntry(20,7,0,30,(const char**) &new_pa,0);
+
+    b_change = newtButton(5,10,"Change"); 
+    b_wf_cancel  = newtButton(20,10,"Cancel");
+
     //intialisation for forms
     new_rec_form = newtForm(NULL, NULL, 0);
     main_form = newtForm(NULL, NULL, 0);
     search_form = newtForm(NULL, NULL, 0);
     settings_form = newtForm(NULL,NULL,0);
+	detail_form = newtForm(NULL,NULL,0);
+    cpword_form = newtForm(NULL,NULL,0);
     
     //adding components into forms
     newtFormAddComponents(main_form, l_queue, l_line, tbox, b_new_rec, 
@@ -96,12 +122,15 @@ void recp_loop(unsigned int rows, unsigned int cols)
                           l_age, ent_address1, ent_address2, ent_address3, 
                           l_no,ent_no, b_add_rec, b_cancel,NULL);
 
-    newtFormAddComponents(search_form, l_queue, l_line, tbox, l_search_bi, 
-                          l_search_bn, ent_bid, ent_bname, b_search_search, 
-                          b_search_cancel, NULL);
+    newtFormAddComponents(search_form, l_queue, l_line, tbox, l_value, 
+                          ent_value, b_search_bi, b_search_bn, b_search_cancel, 
+						   lbox, b_enq, b_detail, NULL);
 
-    newtFormAddComponents(settings_form,l_queue, l_line,tbox, b_cancel, NULL);
-              
+    newtFormAddComponents(settings_form,l_queue, l_line,tbox, b_change_pword, b_set_cancel, NULL);        
+     
+    newtFormAddComponents(cpword_form, l_queue, l_line,tbox, l_op, l_np, l_npa, ent_op, 
+                            ent_np, ent_npa, b_change, b_wf_cancel, NULL);
+
     do
     {   
         newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
@@ -115,7 +144,7 @@ void recp_loop(unsigned int rows, unsigned int cols)
 
            if( ch_form == b_add_rec && validate(record,gender) )
            {
-                wr_file(record,gender);
+                wr_pinfo_file(record,gender);
            }
             
         }else if( ch_form == b_search )
@@ -124,26 +153,66 @@ void recp_loop(unsigned int rows, unsigned int cols)
            newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
            ch_form = newtRunForm(search_form);            
 	   
-	       if( ch_form == b_search_search )
+	       if( ch_form == b_search_bi )
            {					
-	        	res_search = search_by_id(search_id);
-				newtTextboxSetText( tb_res_search,res_search );
-				
-				newtFormAddComponents(search_form, l_queue, l_line, tbox, l_search_bi, 
-                                      l_search_bn, ent_bid, ent_bname, b_search_search, 
-                                      b_search_cancel,tb_res_search, NULL);
-
-				newtRunForm( search_form );	
-           }
-
+	        	//res_search = lbox,search_by_id(search_id);
+				//newtTextboxSetText( tb_res_search, res_search );
+				newtListboxAppendEntry(lbox, search_by_id(search_id),0);
+               
+				newtComponentTakesFocus(lbox, 0);
+				ch_form = newtRunForm( search_form );	
+                
+                if( ch_form == b_enq )                
+                {
+                    //1->enqueue
+                    send_sig_to_doc(1, search_id);
+                } else if( ch_form == b_detail)
+                {
+                   newtPopWindow();
+				   newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
+                   
+				   ch_form = newtRunForm(detail_form);  
+                }
+           }else if ( ch_form == b_search_bn )
+		   {	
+				int max_bn = search_by_name_recp(search_id, name_data);
+				for(int i=0 ; i < max_bn ; i++)
+				{
+					newtListboxAppendEntry(lbox, name_data[i],0);
+				}
+			
+				ch_form == newtRunForm( search_form );
+				if( ch_form == b_enq )                
+                {   
+                    //1->enqueue
+                    send_sig_to_doc(1,search_id);					
+                } else if( ch_form == b_detail)
+                {
+                   newtPopWindow();
+				   newtOpenWindow( 2, 2, cols-5 , rows-5, "Recep" );
+				   ch_form = newtRunForm( detail_form );  
+                }
+     	   }
         }else if( ch_form == b_settings )
         {
             newtPopWindow();
-            newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
-            newtRunForm(settings_form); 
+            newtOpenWindow(2, 2, cols-5 ,rows-5,"Recep");
+            ch_form = newtRunForm(settings_form);
+            if(b_change_pword == ch_form) 
+            {
+                newtPopWindow();
+                newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
+                ch_form = newtRunForm(cpword_form);  
+
+                if(ch_form == b_change)
+                {
+                    change_password(2, old_p, new_p, new_pa);
+                }
+            }
         }
         
     }while( ch_form !=  b_logout );
+    fclose(fp);
 }
 
 /*

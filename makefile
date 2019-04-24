@@ -1,3 +1,3 @@
-out: main.c
-	gcc main.c -lnewt -o a.out
-
+a.out: main.c doc_loop.c doc_server_listen.c send_sig_to_recp.c wr_report_file.c recp_loop.c recp_client_listen.c send_sig_to_doc.c write_pr_file.c buffer.c validate.c gen_id.c search.c login.c pqueue.c
+	gcc main.c doc_loop.c doc_server_listen.c send_sig_to_recp.c wr_report_file.c recp_loop.c recp_client_listen.c send_sig_to_doc.c write_pr_file.c buffer.c validate.c gen_id.c search.c login.c pqueue.c -lpthread -lnewt -o doc
+	gcc main.c doc_loop.c doc_server_listen.c send_sig_to_recp.c wr_report_file.c recp_loop.c recp_client_listen.c send_sig_to_doc.c write_pr_file.c buffer.c validate.c gen_id.c search.c login.c pqueue.c -lpthread -lnewt -o recp
