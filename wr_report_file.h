@@ -3,5 +3,5 @@
 void wr_report_file(char *data[][200],newtComponent tab[][9], unsigned id, int upto);
 int fill_report(char data[][200], unsigned id);
 char* get_line(int len, char type);
-newtComponent get_report(unsigned id);
+void set_report(unsigned id);
 #endif

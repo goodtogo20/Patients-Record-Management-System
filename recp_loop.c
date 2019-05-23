@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <newt.h>
+#include <string.h>
 
+#include "buffer.h"
 #include "write_pr_file.h"
 #include "search.h"
 #include "validate.h"
@@ -14,7 +16,11 @@
 #define ADDRESS 5
 #define NO 6
 
+#define MALE 1
+#define FEMALE 2
+
 extern newtComponent tbox;
+extern buffer_t *pinfo;
 
 void *recp_loop()
 { 
@@ -22,9 +28,14 @@ void *recp_loop()
     newtGetScreenSize(&cols, &rows);
   
     unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2 ;
-    char *record[7][100], add1[100], add2[100], add3[100], *old_p, *new_p, *new_pa;
-    char *search_id, *search_name, *ptr, *res_search, name_data[20][200];
-    int gender = -1, iid; 
+    char *record[7][100], *add2, *add3, *old_p, *new_p, *new_pa;
+    char *search_id, *search_name, *ptr, *res_search, name_data[20][200], sbn_id[1000];
+    int gender = -1; 
+
+	void* keys[20];
+
+	//global varibles initialization
+    pinfo = buffer_new();
 
     newtComponent main_form, b_new_rec, b_settings, b_search, 
                   b_logout, l_queue, l_line, l_op, l_np, l_npa, ent_op, 
@@ -49,7 +60,7 @@ void *recp_loop()
     b_settings = newtButton(5, 11, "Settings");
     b_logout = newtButton(5, 16, "Logout & Exit");
     l_queue = newtLabel(cols-26, 0, "Queue");         
-    l_line = newtLabel(cols-31, 1, "-------------------");
+    l_line = newtLabel(cols-31, 1, "---------------------");
     
     //new record form components
     b_add_rec = newtButton(4, rows-9, "Add Record");
@@ -133,33 +144,67 @@ void *recp_loop()
 
     do
     {   
-        newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
+        newtOpenWindow(2,2,cols-5 ,rows-5,"Main Menu");
         ch_form = newtRunForm(main_form);
         
         if( ch_form == b_new_rec )
         {   
            newtPopWindow();
-           newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
+           newtOpenWindow(2,2,cols-5 ,rows-5,"New Record");
            ch_form = newtRunForm(new_rec_form);
 
            if( ch_form == b_add_rec && validate(record,gender) )
-           {
+           {	
+				if( newtRadioGetCurrent(r_male) == r_male )
+				{
+					gender = MALE;
+				} else
+				{
+					gender = FEMALE;
+				}
+				
+				//append remaining addresses to record 
+				strcat(*record[ADDRESS]," ");
+				strcat(*record[ADDRESS],add2);
+				strcat(*record[ADDRESS]," ");				
+				strcat(*record[ADDRESS],add3);
+			
+				newtPushHelpLine(add2)				;
+				newtWaitForKey();
+
+
                 wr_pinfo_file(record,gender);
            }
             
-        }else if( ch_form == b_search )
+        } else if( ch_form == b_search )
         {
            newtPopWindow();
-           newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
+           newtOpenWindow(2,2,cols-5 ,rows-5,"Search");
+			
+            newtComponentTakesFocus(lbox, 0);
+			newtComponentTakesFocus(b_enq, 0);
+			newtComponentTakesFocus(b_detail, 0);
+				      
            ch_form = newtRunForm(search_form);            
 	   
 	       if( ch_form == b_search_bi )
            {					
 	        	//res_search = lbox,search_by_id(search_id);
-				//newtTextboxSetText( tb_res_search, res_search );
-				newtListboxAppendEntry(lbox, search_by_id(search_id),0);
-               
-				newtComponentTakesFocus(lbox, 0);
+				//newtTextboxSetText( tb_res_search, res_search ); 						
+
+				//Handles error if no result is found
+                if( (res_search = search_by_id(search_id)) == 0 )
+				{
+					newtListboxAppendEntry(lbox, "No Result Found!",0);
+				}else
+				{
+					newtListboxAppendEntry(lbox, res_search,0);
+
+					//take focus back
+					newtComponentTakesFocus(b_enq, 1);
+					newtComponentTakesFocus(b_detail, 1);
+				}				              
+				
 				ch_form = newtRunForm( search_form );	
                 
                 if( ch_form == b_enq )                
@@ -168,40 +213,73 @@ void *recp_loop()
                     send_sig_to_doc(1, search_id);
                 } else if( ch_form == b_detail)
                 {
-                   newtPopWindow();
-				   newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
-                   
-				   ch_form = newtRunForm(detail_form);  
+                   //extract patient info
+                    set_pinfo(search_id);          
+                    newtWinMessage("Patient Info","Cancel",pinfo->data); 					
                 }
-           }else if ( ch_form == b_search_bn )
-		   {	
+
+                //clear value field while exiting
+                newtListboxClear(lbox);
+                newtEntrySet(ent_value, "", 0);
+                
+           } else if ( ch_form == b_search_bn )
+		   {	 						
 				int max_bn = search_by_name_recp(search_id, name_data);
-				for(int i=0 ; i < max_bn ; i++)
+
+				if(max_bn == -1)
 				{
-					newtListboxAppendEntry(lbox, name_data[i],0);
+					newtListboxAppendEntry(lbox, "No Results Found!",0);
+				}else
+				{	
+					for(int i=0 ; i < max_bn ; i++)
+					{
+						newtListboxAppendEntry(lbox, name_data[i], name_data[i]);
+					}
+				
+					//Take focus back
+		            newtComponentTakesFocus(lbox, 1);
+					newtComponentTakesFocus(b_enq, 1);
+					newtComponentTakesFocus(b_detail, 1);
+				}			
+				
+				ch_form = newtRunForm( search_form );
+					
+				//get id of currently selected value in lbox
+				for(int i=0; i < max_bn; i++)
+				{
+					if(newtListboxGetCurrent(lbox) == name_data[i])
+					{
+						sscanf(name_data[i],"%s",sbn_id);
+						break;
+					}
 				}
-			
-				ch_form == newtRunForm( search_form );
+
 				if( ch_form == b_enq )                
                 {   
                     //1->enqueue
-                    send_sig_to_doc(1,search_id);					
+					send_sig_to_doc(1,sbn_id);	
+									
                 } else if( ch_form == b_detail)
                 {
-                   newtPopWindow();
-				   newtOpenWindow( 2, 2, cols-5 , rows-5, "Recep" );
-				   ch_form = newtRunForm( detail_form );  
+                   //extract patient info
+                    set_pinfo(sbn_id);              
+                    newtWinMessage("Patient Info","Cancel",pinfo->data); 
                 }
+
+                //clear value field while exiting
+                newtListboxClear(lbox);
+                newtEntrySet(ent_value, "", 0);
+
      	   }
-        }else if( ch_form == b_settings )
+        } else if( ch_form == b_settings )
         {
             newtPopWindow();
-            newtOpenWindow(2, 2, cols-5 ,rows-5,"Recep");
+            newtOpenWindow(2, 2, cols-5 ,rows-5,"Settings");
             ch_form = newtRunForm(settings_form);
             if(b_change_pword == ch_form) 
             {
                 newtPopWindow();
-                newtOpenWindow(2,2,cols-5 ,rows-5,"Recep");
+                newtOpenWindow(2,2,cols-5 ,rows-5,"Change Password");
                 ch_form = newtRunForm(cpword_form);  
 
                 if(ch_form == b_change)

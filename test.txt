@@ -6847,3 +6847,7129 @@ _______FIELDS[7]:
 _______FIELDS[7]: 2019-4-23 15:48 
 _______FIELDS[7]:   
 _______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: l
+go: s
+go: d
+go: f
+go:  
+go: |
+go: l
+go: k
+go: j
+go: f
+go:  
+go: |
+go: s
+go: d
+go: f
+go: l
+go:  
+go: |
+go: d
+go: l
+go: f
+go: k
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 1
+go:  
+go: 1
+go: 1
+go: :
+go: 2
+go: 0
+go: 
+
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+go: d
+go: f
+go: s
+go: d
+go: f
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: lsdf  
+_______FIELDS[9]: lkjf  
+_______FIELDS[9]: sdfl  
+_______FIELDS[9]: dlfk  
+_______FIELDS[9]: 2019-4-21 11:20 
+_______FIELDS[9]: sdf  
+_______FIELDS[9]: 000 
+_______FIELDS[9]: dfsdf  
+_______FIELDS[9]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go:  
+go: |
+go:  
+go: |
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 5
+go: :
+go: 4
+go: 8
+go: 
+
+go:  
+go: |
+go: 0
+go: 0
+go: 0
+go: 
+
+______________________--------->index : 7 
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]:   
+_______FIELDS[7]: 2019-4-23 15:48 
+_______FIELDS[7]:   
+_______FIELDS[7]: 000 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 1 
+_______FIELDS[1]: 22 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: f
+go: e
+go: v
+go: e
+go: r
+go: !
+go:  
+go: |
+go:  
+go: |
+go: l
+go: i
+go: f
+go: e
+go: s
+go:  
+go: g
+go: o
+go: o
+go: d
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 5
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 0
+go: :
+go: 3
+go: 3
+go: 
+
+go: c
+go: r
+go: o
+go: c
+go: i
+go: n
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: fever!  
+_______FIELDS[9]:   
+_______FIELDS[9]: lifes good  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-5-23 10:33 
+_______FIELDS[9]: crocin  
+_______FIELDS[9]: 222 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 111 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: f
+go: e
+go: v
+go: e
+go: r
+go: !
+go:  
+go: |
+go:  
+go: |
+go: l
+go: i
+go: f
+go: e
+go: s
+go:  
+go: g
+go: o
+go: o
+go: d
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 5
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 0
+go: :
+go: 3
+go: 3
+go: 
+
+go: c
+go: r
+go: o
+go: c
+go: i
+go: n
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: fever!  
+_______FIELDS[9]:   
+_______FIELDS[9]: lifes good  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-5-23 10:33 
+_______FIELDS[9]: crocin  
+_______FIELDS[9]: 222 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 111 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: f
+go: e
+go: v
+go: e
+go: r
+go: !
+go:  
+go: |
+go:  
+go: |
+go: l
+go: i
+go: f
+go: e
+go: s
+go:  
+go: g
+go: o
+go: o
+go: d
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 5
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 0
+go: :
+go: 3
+go: 3
+go: 
+
+go: c
+go: r
+go: o
+go: c
+go: i
+go: n
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: fever!  
+_______FIELDS[9]:   
+_______FIELDS[9]: lifes good  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-5-23 10:33 
+_______FIELDS[9]: crocin  
+_______FIELDS[9]: 222 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 111 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: f
+go: e
+go: v
+go: e
+go: r
+go: !
+go:  
+go: |
+go:  
+go: |
+go: l
+go: i
+go: f
+go: e
+go: s
+go:  
+go: g
+go: o
+go: o
+go: d
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 5
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 0
+go: :
+go: 3
+go: 3
+go: 
+
+go: c
+go: r
+go: o
+go: c
+go: i
+go: n
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: fever!  
+_______FIELDS[9]:   
+_______FIELDS[9]: lifes good  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-5-23 10:33 
+_______FIELDS[9]: crocin  
+_______FIELDS[9]: 222 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 111 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: c
+go: o
+go: u
+go: g
+go: h
+go:  
+go: a
+go: n
+go: d
+go:  
+go: c
+go: o
+go: l
+go: d
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: s
+go: y
+go: m
+go: p
+go: t
+go: o
+go: m
+go: s
+go:  
+go: o
+go: f
+go:  
+go: d
+go: e
+go: n
+go: g
+go: e
+go: e
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 3
+go: 3
+go: 
+
+go: p
+go: a
+go: r
+go: a
+go: c
+go: e
+go: t
+go: a
+go: m
+go: o
+go: l
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 6
+go: 5
+go: 0
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: cough and cold  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: symptoms of dengee  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-4-25 14:33 
+_______FIELDS[9]: paracetamol  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: dolo-650  
+_______FIELDS[9]: 222 
+go: b
+go: r
+go: o
+go: k
+go: e
+go: n
+go:  
+go: r
+go: i
+go: b
+go: s
+go:  
+go: |
+go: m
+go: i
+go: l
+go: d
+go:  
+go: f
+go: e
+go: v
+go: e
+go: r
+go:  
+go: |
+go: h
+go: a
+go: i
+go: r
+go: l
+go: i
+go: n
+go: e
+go:  
+go: f
+go: r
+go: a
+go: c
+go: t
+go: u
+go: r
+go: e
+go:  
+go: |
+go:  
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 4
+go: -
+go: 2
+go: 5
+go:  
+go: 1
+go: 4
+go: :
+go: 5
+go: 2
+go: 
+
+go: d
+go: o
+go: l
+go: o
+go: -
+go: 1
+go: 0
+go: 0
+go: 0
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: broken ribs  
+_______FIELDS[9]: mild fever  
+_______FIELDS[9]: hairline fracture  
+_______FIELDS[9]:    
+_______FIELDS[9]: 2019-4-25 14:52 
+_______FIELDS[9]: dolo-1000  
+_______FIELDS[9]: 111 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 222 
+go: f
+go: e
+go: v
+go: e
+go: r
+go: !
+go:  
+go: |
+go:  
+go: |
+go: l
+go: i
+go: f
+go: e
+go: s
+go:  
+go: g
+go: o
+go: o
+go: d
+go:  
+go: |
+go:  
+go: 
+
+go: 2
+go: 0
+go: 1
+go: 9
+go: -
+go: 5
+go: -
+go: 2
+go: 3
+go:  
+go: 1
+go: 0
+go: :
+go: 3
+go: 3
+go: 
+
+go: c
+go: r
+go: o
+go: c
+go: i
+go: n
+go:  
+go: |
+go: 2
+go: 2
+go: 2
+go: 
+
+go: a
+go: a
+go: s
+go: a
+go: m
+go:  
+go: t
+go: e
+go: a
+go:  
+go: |
+go: 1
+go: 1
+go: 1
+go: 
+
+______________________--------->index : 9 
+_______FIELDS[9]: fever!  
+_______FIELDS[9]:   
+_______FIELDS[9]: lifes good  
+_______FIELDS[9]:   
+_______FIELDS[9]: 2019-5-23 10:33 
+_______FIELDS[9]: crocin  
+_______FIELDS[9]: 222 
+_______FIELDS[9]: aasam tea  
+_______FIELDS[9]: 111 

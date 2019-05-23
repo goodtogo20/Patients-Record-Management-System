@@ -13,6 +13,12 @@ struct queue* create_queue(int cap)
 	q->tail = 0 ;
 	q->size = 0 ;
 	q->cap  = cap;
+
+    for(int i=0; i<cap; i++)
+    {
+        q->array[i] = 0;
+    }
+
 	return q;
 }
 

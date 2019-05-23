@@ -42,31 +42,40 @@ void *recp_client_listen()
 	{
 		/* Try to receive any incoming UDP datagram. Address and port of 
 		  requesting client will be stored on serverStorage variable */
-		nBytes = recvfrom(udpSocket,buffer,1024,0,(struct sockaddr *)&serverStorage, &addr_size);
-		
+		nBytes = recvfrom(udpSocket,buffer,1024,0,(struct sockaddr *)&serverStorage, &addr_size);		
         
         sscanf(buffer,"%s %s",instr, str_id);
         
 		if( !strcmp(buffer,"deq") )
 		{
 			dequeue(pque);
-                     
+             
+            //local queue updating      
             newtTextboxSetText(tbox,"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");      
             fill_pque_tbox();
             newtRefresh();
-
+            
+            //send signal to update tb at doctor side
+            //send_sig_to_doc(5,0);
             strcpy(buffer,"nul");
 
 		}else if( !strcmp(instr,"ser") )
         {
-             strcpy(ser_res,search_by_id(str_id));
+             strcpy(ser_res,search_by_id(str_id));//locally search 
              fprintf(fp,"%s %s",ser_res,str_id);
              //ser_res->2
              send_sig_to_doc(2, ser_res);
+
         }else if( !strcmp(instr,"sbn"))
         {
             strcpy(ser_res, get_search_by_name_data(str_id));
+            fprintf(fp,"RECPCLI_SIDE: %s",ser_res);
             send_sig_to_doc(3,ser_res);
+
+        }else if( !strcmp(instr,"gtb"))
+        {
+            strcpy(ser_res,fetch_tb_data());
+            send_sig_to_doc(4,ser_res);
         }
         jk++;
 

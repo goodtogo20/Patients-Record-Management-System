@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <newt.h>
+#include "buffer.h"
 
 #include "pqueue.h"
 #include "search.h"
@@ -19,6 +20,9 @@
 #define LINE_TWO 8
 
 extern newtComponent tbox;
+extern newtComponent rtbox;
+extern struct queue *pque;
+extern buffer_t *pinfo;
 
 int add_tablet_entry(newtComponent tab[][9], newtComponent add, char *data[][200])
 {
@@ -54,8 +58,8 @@ void *doc_loop()
 
     unsigned int cenx = cols/2, ceny = rows/2, quat = cenx/2, pid = 108;
     char *search_id, *search_name, *res_search, *data[11][200], name_data[20][200],
-          *old_p, *new_p, *new_pa;
-    int ind = 0, ctr = 0, tab_time[7][2] = { 0, 0 }, p_ser_req;
+          *old_p, *new_p, *new_pa, str[100], sbn_id[10];
+    int ind = 0, ctr = 0, tab_time[7][2] = { 0, 0 }, p_ser_req, id = 0;
 
     struct newtExitStruct stat;
 
@@ -73,6 +77,9 @@ void *doc_loop()
     newtComponent l_queue, l_line, ch_form, b_done, l_value,ent_value, b_search_bi,
                   b_search_bn, lbox, b_detail, detail_form,b_settings, b_change,l_op, l_np, l_npa, ent_op,
                   ent_np, ent_npa, settings_form, cpword_form, b_wf_cancel;
+    
+    //global varibles initialization
+    pinfo = buffer_new();
 
     //main form components
     b_current = newtButton(5, 1, "Current Patient");
@@ -83,6 +90,7 @@ void *doc_loop()
     //current patient form components
     b_add_report = newtButton(4, rows - 9, "Add Report");
     //scr = newtVerticalScrollbar(4, 4, 8, 0, 0);
+    rtbox = newtTextbox(5, 1, 60, 20, NEWT_FLAG_SCROLL);
     b_dequeue = newtButton(23, rows-9, "Dequeue");
     b_cp_cancel = newtButton(39, rows-9, "Cancel");
 
@@ -123,7 +131,7 @@ void *doc_loop()
 
     //general components
     l_queue = newtLabel(cols-26, 0, "Queue");
-    l_line = newtLabel(cols-31, 1, "-------------------");
+    l_line = newtLabel(cols-31, 1, "---------------------");
 
     //settings forms    
     b_change_pword = newtButton(5,1,"Change Password");
@@ -162,7 +170,7 @@ void *doc_loop()
     //adding components to form
     newtFormAddComponents(main_form, tbox, l_queue, l_line, b_current, b_search, b_settings, b_logout, NULL);
 
-    newtFormAddComponents(cp_form, l_queue, l_line, tbox, b_add_report, b_dequeue, b_cp_cancel, NULL);
+    newtFormAddComponents(cp_form, l_queue, l_line, tbox, rtbox, b_add_report, b_dequeue, b_cp_cancel, NULL);
 
     newtFormAddComponents(complaint_form, l_complaints, ent_complaints1, ent_complaints2, NULL);
 
@@ -190,18 +198,31 @@ void *doc_loop()
 
     do
     {
-        newtOpenWindow(2,2,cols-5 ,rows-5,"Doctor");
+        newtOpenWindow(2,2,cols-5 ,rows-5,"Main Menu");
         ch_form = newtRunForm(main_form);
 
         //MAIN->CURRENT_PATIENT
         if( ch_form == b_current )
         {
             newtPopWindow();
-            newtOpenWindow(2,2,cols-5 ,rows-5,"Doctor");
+            newtOpenWindow(2,2,cols-5 ,rows-5,"Patient");
+               
+            //get current patient in "id" variable
+            if(!isEmpty(pque))
+            {
+                id = pque->array[pque->head];
+                set_report(id);
 
-            tb_report = get_report(108);
-
-            newtFormAddComponent(cp_form, tb_report);
+                sprintf(str,"%d",id);
+                newtPushHelpLine(str);
+            }else
+            {
+                id = -1;
+                newtWinMessage("Error","Cancel","No Patients in queue");
+                continue;                
+            }
+            
+            //newtWaitForKey();
             ch_form = newtRunForm(cp_form);
 
             //MAIN->CURRENT_PATIENT->ADD_REPORT
@@ -229,9 +250,11 @@ void *doc_loop()
                     //??
                     else if(ch_form == b_add)
                     {
-                        wr_report_file(data, tablet, pid, ind+5);
+                        wr_report_file(data, tablet, id, ind+5);
                         //1->dequeue
                         send_sig_to_recp(1,0);
+                        //newtTextboxSetText(tb_report," ");
+                        newtRefresh();
                         break;
                     }
                 }//end while
@@ -240,57 +263,108 @@ void *doc_loop()
             {
                 //1->dequeue
                 send_sig_to_recp(1,0);
+                //newtTextboxSetText(tb_report," ");
             }
         }
         //MAIN->SEARCH
         else if( ch_form == b_search )
         {
             newtPopWindow();
-            newtOpenWindow(2,2,cols-5 ,rows-5,"Doctor");
-            ch_form = newtRunForm(search_form);
+            newtOpenWindow(2,2,cols-5 ,rows-5,"Search");
+            
+            //remove focus
+            newtComponentTakesFocus(lbox, 0);
+            newtComponentTakesFocus(b_detail, 0);
 
+            ch_form = newtRunForm(search_form);  
+         
 	       if( ch_form == b_search_bi )
            {
 	        	//res_search = lbox,search_by_id(search_id);
-				//newtTextboxSetText( tb_res_search, res_search );
-				newtListboxAppendEntry(lbox, search_by_id_req(search_id),0);
+				//newtTextboxSetText( tb_res_search, res_search );    
+            
+				//Handles error if no result is found
+                if( (res_search = search_by_id(search_id)) == 0 )
+				{
+					newtListboxAppendEntry(lbox, "No Result Found!",0);
+				}else
+				{
+					newtListboxAppendEntry(lbox, res_search,0);
 
-				newtComponentTakesFocus(lbox, 0);
+					//take focus back
+					newtComponentTakesFocus(b_detail, 1);
+				}  
+				
 				ch_form = newtRunForm( search_form );
 
-                if( ch_form == b_detail)
+                if( ch_form == b_detail )
                 {
-                   newtPopWindow();
-				   newtOpenWindow(2,2,cols-5 ,rows-5,"Doctor");
+                    //extract patient info
+                    set_pinfo(search_id);                
+                    newtWinMessage("Patient Info","Cancel",pinfo->data);
 
-				   ch_form = newtRunForm(detail_form);
+                   /*newtPopWindow();
+				   newtOpenWindow(2,2,cols-5 ,rows-5,"Details");
+
+				   ch_form = newtRunForm(detail_form);*/
                 }
+                //clear value field while exiting
+                newtListboxClear(lbox);
+                newtEntrySet(ent_value, "", 0);
+
            } else if ( ch_form == b_search_bn )
-		   {    
-                fill_doc_name_search_file(search_id);
-				int max_bn = search_by_name_doc(search_id, name_data);
-				for(int i=0 ; i < max_bn ; i++)
+		   {   
+                //using recp side search by name temporarily
+				int max_bn = search_by_name_recp(search_id, name_data);
+               
+                if(max_bn == -1)
 				{
-					newtListboxAppendEntry(lbox, name_data[i],0);
+					newtListboxAppendEntry( lbox, "No Results Found!", 0 );
+				} else
+				{	
+					for( int i=0 ; i < max_bn ; i++ )
+					{
+						newtListboxAppendEntry(lbox, name_data[i],name_data[i]);
+					}
+				
+					//Take focus back
+		            newtComponentTakesFocus(lbox, 1);
+					newtComponentTakesFocus(b_detail, 1);
+				}                                             
+        
+                ch_form = newtRunForm( search_form );
+                
+                //get id of currently selected value in lbox
+                for(int i=0; i < max_bn; i++)
+				{
+					if(newtListboxGetCurrent(lbox) == name_data[i])
+					{
+						sscanf(name_data[i],"%s",sbn_id);
+						break;
+					}
 				}
 
 			    if( ch_form == b_detail)
-                {
-                   newtPopWindow();
-				   newtOpenWindow( 2, 2, cols-5 , rows-5, "Doctor" );
-				   ch_form = newtRunForm( detail_form );
+                {   
+                    //extract patient info
+                    set_pinfo(sbn_id);                
+                    newtWinMessage("Patient Info","Cancel",pinfo->data);
                 }
-
-        }
-        }else if(ch_form == b_settings)
+                //clear value field while exiting
+                newtListboxClear(lbox);
+                newtEntrySet(ent_value, "", 0);   
+      
+            }
+        } else if(ch_form == b_settings)
         {
             newtPopWindow();
-            newtOpenWindow(2,2,cols-5 ,rows-5,"GODOFWAR");
+            newtOpenWindow(2,2,cols-5 ,rows-5,"Settings");
             ch_form = newtRunForm(settings_form);
+
             if(b_change_pword == ch_form)
             {
                 newtPopWindow();
-                newtOpenWindow(2,2,cols-5 ,rows-5,"Doctor");
+                newtOpenWindow(2,2,cols-5 ,rows-5,"Change Password");
                 ch_form = newtRunForm(cpword_form);
 
                 if(ch_form == b_change)
@@ -301,7 +375,7 @@ void *doc_loop()
         }
         else if (ch_form == 0 )
         {
-            printf("FML");
+            printf("ALL HAIL AJEY THE AWPER");
         }
 
     }while( ch_form !=  b_logout );

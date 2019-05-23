@@ -13,14 +13,17 @@
 #define SER_RES 2
 
 extern struct queue *pque;
+extern newtComponent tbox;
 extern char search_result[200];
+extern char search_name_result[500];
+char tb_buffer[400];
 
 void *doc_server_listen()
 {
 	int i, id;
     FILE *fp = fopen("dlisten.txt","w");
 	char buffer[1024], instr[10], temp[100],str_id[100], ser_res[200];
-	int udpSocket, nBytes, run_sbi=0, run_sbn = 0;
+	int udpSocket, nBytes, run_sbi=0, run_sbn = 0, run_rtb = 0;
 
 	struct sockaddr_in serverAddr, clientAddr;
 	struct sockaddr_storage serverStorage;
@@ -56,22 +59,40 @@ void *doc_server_listen()
 			enqueue(pque, id);
             fill_pque_tbox();
             newtRefresh();
+            
+            newtPushHelpLine(" ");
 			strcpy(instr,"nul");
-
-		}
+		}else if(!strcmp(instr,"dne"))
+        {   
+            //local queue updating      
+            newtTextboxSetText(tbox,"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");      
+            fill_pque_tbox();
+            newtRefresh();            
+        }
         //conditional execution codeblocks
         else if(run_sbi)
         {
             strcpy(search_result, buffer);
             fprintf(fp,"recvd: %s",search_result);
             run_sbi = 0;
-
         }
         else if(run_sbn)
         {
-            strcpy(search_result, buffer);
+            strcpy(search_name_result, buffer);
             run_sbn = 0;
-        } 
+        } else if( run_rtb )
+        {   
+            //get textbox data and refresh texbox
+            for(int i=0; i< 400; i++)
+                tb_buffer[i] = '\0';
+
+            strcpy(tb_buffer, buffer);
+            newtTextboxSetText(tbox, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"); 
+            newtRefresh();
+            newtTextboxSetText(tbox, tb_buffer);
+            newtRefresh();
+            run_rtb = 0;
+        }
         //manipulate conditional execution        
         else if( !strcmp(instr,"sbi") )
         {
@@ -80,6 +101,9 @@ void *doc_server_listen()
         }else if( !strcmp(instr,"sbn"))
         {
             run_sbn = 1;
+        }else if( !strcmp(instr, "rtb"))
+        {
+            run_rtb = 1;
         }
 	}
 

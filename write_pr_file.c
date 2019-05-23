@@ -20,6 +20,7 @@ int wr_pinfo_file(char *record[][100], int gender)
     if(fp == NULL)
     {
         printf("Error opening file");
+        exit(0);
     }
     
     //generates id and adds before each entry in file

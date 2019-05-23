@@ -2,4 +2,4 @@
 pbl project
 
 
-devlopment stage : Doctor side code -> client server paradigm
+devlopment stage : Receptionist side code

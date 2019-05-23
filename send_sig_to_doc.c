@@ -11,6 +11,8 @@
 #define ENQUEUE 1
 #define SEARCH_RES 2
 #define SEND_SBN_RES 3
+#define SEND_TB 4
+#define SEND_DONE 5
 
 extern struct queue *pque;
 
@@ -56,17 +58,31 @@ int send_sig_to_doc(int reason, char* data)
         strcpy(buffer,"sbi");
             fprintf(fp,"res_buffer:%s\n",buffer);
         sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
-        strcpy(buffer,data);
+        
+            strcpy(buffer,data);
             fprintf(fp,"data: %s",buffer);
         sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
         break;
     
     case SEND_SBN_RES:
         strcpy(buffer,"sbn");
-            fprintf(fp,"sbyname:%s\n",buffer);
+            fprintf(fp,"sbname:%s\n",buffer);
         sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
         strcpy(buffer,data);
             fprintf(fp,"data: %s",buffer);
+        sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
+        break;
+
+    case SEND_TB:
+        strcpy(buffer,"rtb");
+        sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
+        strcpy(buffer,data);
+            fprintf(fp,"data: %s",buffer);
+        sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
+        break;
+        
+    case SEND_DONE: 
+        strcpy(buffer,"dne");
         sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
         break;
 

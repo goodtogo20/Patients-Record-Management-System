@@ -1,0 +1,9 @@
+cough and cold |mild fever |mild symptoms of denguee |  
+2019-4-25 14:23
+paracetamol |111
+dolo-650 |202
+^cough and cold |mild fever |symptoms of denguee |   
+2019-4-25 14:29
+paracetamol |111
+dolo-650 |222
+^

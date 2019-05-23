@@ -14,9 +14,12 @@
 #define LINE_ONE 7
 #define LINE_TWO 8
 
+extern struct queue *pque;
+extern newtComponent rtbox;
+
 void wr_report_file(char *data[][200],newtComponent tab[][9], unsigned id, int upto)
 {
-    char file_id[26];
+    char file_id[40];
     time_t t = time(NULL);
     struct tm tm = *localtime(&t);
     sprintf(file_id,"pat_med_reports/%u.txt",id);
@@ -37,21 +40,25 @@ void wr_report_file(char *data[][200],newtComponent tab[][9], unsigned id, int u
         } else
         {
             fprintf(fp,"%s |",*data[i]);
+            
 
+            //morning 
 			if(newtRadioGetCurrent(tab[i-4][MOR_ONE]) == tab[i-4][MOR_ONE])
 				fprintf(fp,"%s","1");
 			else if(newtRadioGetCurrent(tab[i-4][MOR_ONE]) == tab[i-4][MOR_HALF])
 				fprintf(fp,"%s","2");	
 			else 
 				fprintf(fp,"%s","0");
-
+            
+            //noon
 			if(newtRadioGetCurrent(tab[i-4][NOON_ONE]) == tab[i-4][NOON_ONE])
 				fprintf(fp,"%s","1");
 			else if(newtRadioGetCurrent(tab[i-4][NOON_ONE]) == tab[i-4][NOON_HALF])
 				fprintf(fp,"%s","2");	
 			else 
 				fprintf(fp,"%s","0");
-
+            
+            //night
 			if(newtRadioGetCurrent(tab[i-4][NIGHT_ONE]) == tab[i-4][NIGHT_ONE])
 				fprintf(fp,"%s\n","1");
 			else if(newtRadioGetCurrent(tab[i-4][NIGHT_ONE]) == tab[i-4][NIGHT_HALF])
@@ -79,22 +86,30 @@ int fill_report(char data[][200], unsigned id)
             data[row][col] = 0;
 
     FILE *fp = fopen(file_id, "r"); 
-    FILE *test = fopen("test.txt","a");
+    FILE *test = fopen("test.txt","a");  
 
     if(cursor != 0) 
         fseek(fp,cursor,0);     
-
+    
+    //if patient has no record file
     if(fp == 0)
     {   
-        newtPushHelpLine("Error Occured, press any key!");
+            //HANDLE ERROR
+        FILE *temp = fopen(file_id,"a");
+        fclose(temp);
+        
+        newtPushHelpLine("file fail code executed");
         newtWaitForKey();
-        fseek(fp,cursor,0);
+        return -1;
     }
 
     while( (ch = fgetc(fp)) != '^'  )
     {   
         if ( feof(fp) ) 
-            return i;         
+        {   
+                cursor = 0;
+                return i; 
+        }        
         
         fprintf(test,"go: %c\n",ch);  
 
@@ -138,18 +153,19 @@ char* get_line(int len, char type)
 	return line;
 }
 
-newtComponent get_report(unsigned id)
+void set_report(unsigned id)
 {   
     int i = 0;    
-    char data[19][200], go[10];
+    char data[19][200], go[10], check[10];
 	buffer_t *buf = buffer_new();
-
-    newtComponent tb = newtTextbox(5, 1, 60, 20, NEWT_FLAG_SCROLL);
     
+    //clear contents of buffer
+    buffer_clear(buf);
+
     while( (i = fill_report(data,id)) > 0 ) 
     {   
 		buffer_append(buf, get_line(20,'_'));
-		buffer_append(buf, data[4]);
+		buffer_append(buf, data[4]); //date
 		buffer_append(buf, get_line(20,'_'));
 		buffer_append(buf, "\n\n");
 
@@ -189,17 +205,24 @@ newtComponent get_report(unsigned id)
 			
 		  buffer_append(buf, "\n");         
 			
-        buffer_append(buf, "Remarks:\n");
-        buffer_append(buf, data[2]);
-        buffer_append(buf, data[3]);
+          buffer_append(buf, "Remarks:\n");
+          buffer_append(buf, data[2]);
+          buffer_append(buf, data[3]);
 			
 	      buffer_append(buf, "\n");	
 		  buffer_append(buf, get_line(55,'_'));
 		  buffer_append(buf, "\n\n"); 
     }  
     
-    newtTextboxSetText(tb, buf->data);
-    return tb;
+    
+    if(i == -1)
+    {
+        buffer_append(buf,"No Records Found!");
+    }
+    //the value of i is always 0 on successful execution
+    
+    newtTextboxSetText(rtbox, buf->data);
+    return;
 }
 
 /*

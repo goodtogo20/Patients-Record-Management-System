@@ -3,11 +3,17 @@
 #include <string.h>
 #include <pthread.h>
 #include <newt.h>
+#include "buffer.h"
 
 //GLOBAL DECLARATION
 struct queue *pque;
 newtComponent tbox;
+newtComponent rtbox;
+buffer_t *pinfo;
+
 char search_result[500];
+char search_name_result[500];
+char tb_buffer[400];
 
 #include "login.h"
 #include "pqueue.h"
@@ -44,7 +50,7 @@ int main()
     }
 
     char *ename, *epass;
-	tbox = newtTextbox( cols- 30, 2, 20, 10, 0 );
+	tbox = newtTextbox( cols- 31, 2, 22, 10, 0 );
     unsigned int winx=cols/2 - 22, winy=rows/2 - 6, role = 0;
     newtComponent lname, lpass, form, ent_name, ent_pass, lin, can, catch;
 

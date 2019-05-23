@@ -4,6 +4,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <string.h>
+#include <unistd.h>
 #include <stdlib.h>
 #include "pqueue.h"
 #include "search.h"
@@ -11,8 +12,10 @@
 #define DEQUEUE 1
 #define SEARCH_BI 2
 #define SEARCH_BN 3
+#define GET_TB 4
 
 extern struct queue *pque;
+extern newtComponent tbox;
 
 int send_sig_to_recp(int reason, char *data)
 {
@@ -42,12 +45,13 @@ int send_sig_to_recp(int reason, char *data)
     {
         case DEQUEUE:
             dequeue(pque);
-            fill_pque_tbox();          
-            newtRefresh();
-
             strcpy(buffer,"deq");
 
-            sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);    
+            newtTextboxSetText(tbox,"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");      
+            fill_pque_tbox();
+            newtRefresh();
+
+            sendto(clientSocket,buffer,strlen(buffer),0,(struct sockaddr *)&serverAddr, addr_size);
             break;
 
         case SEARCH_BI:
@@ -57,13 +61,20 @@ int send_sig_to_recp(int reason, char *data)
 
 	        sendto(clientSocket,buffer,strlen(instr),0,(struct sockaddr *)&serverAddr, addr_size); 
 	        break;        
+
         case SEARCH_BN:
             sprintf(instr,"sbn %s",data);
             strcpy(buffer,instr);
     
             sendto(clientSocket,buffer,strlen(instr),0,(struct sockaddr *)&serverAddr, addr_size); 
 	        break;
+        
+        case GET_TB:
+            sprintf(instr,"gtb");
+            strcpy(buffer,instr);
     
+            sendto(clientSocket,buffer,strlen(instr),0,(struct sockaddr *)&serverAddr, addr_size); 
+	        break;
         default:
 
             newtPushHelpLine("Fatal Error: doc_server_send");
